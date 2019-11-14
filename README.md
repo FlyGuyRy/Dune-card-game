@@ -1,5 +1,3 @@
 # dune-test-game
 
-This is modified from the Star Wars Homework Solution.
-
-Basic JS
+This is a simple card battle game using JavaScript
