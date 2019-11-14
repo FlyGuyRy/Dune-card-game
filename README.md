@@ -1,3 +1,3 @@
 # dune-test-game
 
-This is a simple card battle game using JavaScript
+A card battle game using JavaScript
