@@ -1,3 +1,3 @@
 # dune-test-game
 
-A card battle game using JavaScript
+A card-battle game based on the characters of Dune.
